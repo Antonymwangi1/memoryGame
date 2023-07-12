@@ -13,7 +13,7 @@ A simple memory game implemented in JavaScript, where players need to match pair
 
 ## Demo
 
-Add a link to a live demo or provide instructions on how to run the game locally.
+[https://antonymwangi1.github.io/memoryGame/](https://antonymwangi1.github.io/memoryGame/)
 
 ## Features
 
