@@ -7,9 +7,7 @@ A simple memory game implemented in JavaScript, where players need to match pair
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#installation)
 
 ## Demo
 
